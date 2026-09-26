@@ -14,6 +14,8 @@ Umbriel is an AI-first public infrastructure project with a live Base Mainnet ut
 - Network: Base Mainnet
 - Chain ID: 8453
 - Contract: `0xd6afd508e446f777e588dda64454a47abee960ea`
+- BaseScan: https://basescan.org/token/0xd6afd508e446f777e588dda64454a47abee960ea
+- Deployment tx: `0x0deb7b631d968b60b7c3f1b6984ff9f6eb59323738d882f893c196be0cbf366a`
 - Decimals: 18
 - Fixed supply: 100,000,000 UMBR
 - Treasury: `0x67Ae38Cf46DE97c4212e91Fa05bec767c4B42711`
