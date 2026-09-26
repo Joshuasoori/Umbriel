@@ -1,4 +1,10 @@
-# Umbriel
+<p align="center">
+  <img src="branding/UMBR_logo_64x64.png" alt="Umbriel logo" width="128">
+</p>
+
+<h1 align="center">Umbriel</h1>
+
+<p align="center"><strong>AI-first onchain infrastructure</strong></p>
 
 Umbriel is an AI-first public infrastructure project with a live Base Mainnet utility token and a planned Bitcoin Ordinals land layer.
 
