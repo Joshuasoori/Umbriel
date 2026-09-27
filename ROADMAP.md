@@ -5,7 +5,7 @@
 - [x] Discord community core
 - [x] UMBR fixed-supply ERC-20
 - [x] Base Mainnet deployment
-- [ ] Base explorer source verification
+- [x] Base explorer source verification
 - [ ] public token logo/metadata propagation
 
 ## Phase 1 — Public identity
