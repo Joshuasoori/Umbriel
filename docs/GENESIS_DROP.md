@@ -8,12 +8,12 @@ This document defines the proposed launch architecture for the first public Umbr
 ## Collection
 - Collection: **Umbriel Map — Genesis**
 - Network: **Bitcoin Ordinals**
-- Total Genesis collection supply: **777 Lands**
+- Total Genesis collection supply: **100 Lands**
 - Genesis Parent: 1 parent inscription
-- Founder Core: 7 lands
-- First public release: **70 Orbital Ring Lands**
+- Founder Core: 5 lands
+- Proposed public release: **95 Lands**
 
-The full 777 supply should be published before the first public sale. No hidden Genesis supply should exist.
+The full 100-Land Genesis supply should be published before the first public sale. No hidden Genesis supply should exist.
 
 ## Value model
 
@@ -51,17 +51,17 @@ Planned capabilities, subject to supported connectors and explicit user authoriz
 - Third-party subscriptions, marketplace fees, phone/SMS costs or paid APIs are not automatically included.
 - Umbriel never asks holders to expose seed phrases or private keys.
 
-## 70-Land first public release
+## Proposed 95-Land public release
 
-Proposed first public batch:
-- 7 Legendary
-- 14 Epic
-- 21 Rare
-- 28 Uncommon
+Recommended public allocation:
+- 10 Legendary
+- 20 Epic
+- 25 Rare
+- 40 Uncommon
 
-The 7 Founder Core Lands are not part of the public batch.
+The 5 Founder Core Lands are recommended to remain outside the initial public sale for protocol/community use.
 
-This makes the first release visually strong and allows later Common-tier entry points without changing the total 777 supply.
+Total Genesis supply remains fixed at 100.
 
 ## Scarcity rules
 - Exact total supply published before mint.
@@ -108,7 +108,7 @@ Suggested relative multipliers:
 These multipliers are launch pricing mechanics, not claims about future resale value.
 
 ## Recommended sale mechanic
-For the first 70:
+For the proposed public release:
 - fixed public prices by rarity
 - transparent quantity per tier
 - no bonding curve in v1
