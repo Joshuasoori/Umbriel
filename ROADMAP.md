@@ -6,6 +6,7 @@
 - [x] UMBR fixed-supply ERC-20
 - [x] Base Mainnet deployment
 - [x] Base explorer source verification
+- [x] BaseScan ownership claim
 - [ ] public token logo/metadata propagation
 
 ## Phase 1 — Public identity
