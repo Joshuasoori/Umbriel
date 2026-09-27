@@ -8,35 +8,38 @@ Umbriel Map is the collectible identity and land layer of the Umbriel ecosystem.
 - **Umbriel AI** = product and community layer connecting both.
 
 ## Recommended supply
-**777 Lands** for v1.
+**100 Genesis Lands** for v1.
 
 ## Map topology
 A concentric orbital map around the Umbriel Core.
 
 ### Zones
-1. **The Core** — 7 lands
-2. **Orbital Ring** — 70 lands
-3. **Signal Districts** — 140 lands
-4. **Vault Districts** — 140 lands
-5. **Builder Districts** — 210 lands
-6. **Outer Void** — 210 lands
+Recommended 100-Land topology:
+1. **The Core** — 5 lands
+2. **Orbital Ring** — 10 lands
+3. **Signal Districts** — 20 lands
+4. **Vault Districts** — 20 lands
+5. **Builder Districts** — 20 lands
+6. **Outer Void** — 25 lands
 
-Total: 777.
+Total: 100.
 
 ## Rarity
-- Founder — 7
-- Legendary — 35
-- Epic — 70
-- Rare — 140
-- Uncommon — 210
-- Common — 315
+Recommended v1 allocation:
+- Founder — 5
+- Legendary — 10
+- Epic — 20
+- Rare — 25
+- Uncommon — 40
+
+Total: 100.
 
 Rarity controls visual identity and optional access privileges, not guaranteed financial value.
 
 ## Ordinals collection model
 Use one **Genesis Parent Inscription** representing the Umbriel Map collection.
 
-All 777 lands should be child inscriptions of that parent so provenance is established on-chain from the beginning.
+All 100 Genesis Lands should be child inscriptions of that parent so provenance is established on-chain from the beginning.
 
 ## Recursive art
 Recommended:
@@ -100,14 +103,14 @@ Phase 3:
 
 ## Implementation roadmap
 1. Freeze brand name: Umbriel Map
-2. Approve 777 topology
+2. Approve 100-Land topology
 3. Generate deterministic coordinates
 4. Design Genesis parent artifact
 5. Build generative renderer
 6. Generate metadata manifest
 7. Test locally / test environment
 8. Inscribe Genesis parent
-9. Inscribe 7 Core children
+9. Inscribe 5 Core children
 10. Verify explorer/wallet rendering
 11. Build map viewer
 12. Release public collection in batches
