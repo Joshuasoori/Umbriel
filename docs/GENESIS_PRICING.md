@@ -1,9 +1,9 @@
-# Umbriel Map — Genesis Drop Pricing v1
+# Umbriel Map — Genesis Pricing (100-Land Revision Pending)
 
 ## Status
 **Planning model. Not yet a public sale or price promise.**
 
-This pricing architecture is designed for the first 70 public Genesis Lands. Final prices should be frozen only after inscription fees, Founder Access operating costs, tax/legal treatment and launch infrastructure are confirmed.
+This document contains the older 70-Land pricing model and is retained for reference. The collection has since been changed to **100 total Genesis Lands**, so final pricing must be recalculated before launch. Final prices should be frozen only after inscription fees, Founder Access operating costs, tax/legal treatment and launch infrastructure are confirmed.
 
 ## Market reference
 Planning reference on 2026-09-27:
@@ -11,7 +11,7 @@ Planning reference on 2026-09-27:
 - BTC values below are the actual proposed price units.
 - USD examples are only approximate illustrations and will move with BTC.
 
-## First public batch
+## Previous 70-Land pricing reference
 - 28 Uncommon
 - 21 Rare
 - 14 Epic
@@ -20,7 +20,7 @@ Planning reference on 2026-09-27:
 
 The 7 Founder Core Lands remain outside the first public sale.
 
-## Recommended Genesis prices
+## Previous illustrative prices
 
 | Tier | Quantity | BTC per Land | Sats | Approx. USD at $84,533/BTC |
 |---|---:|---:|---:|---:|
@@ -35,7 +35,7 @@ Pricing multipliers:
 - Epic: 2.25x
 - Legendary: 3.5x
 
-## Maximum first-drop gross proceeds
+## Previous 70-Land gross proceeds illustration
 If all 70 public Lands sell at the listed BTC prices:
 
 - Uncommon: 0.0840 BTC
