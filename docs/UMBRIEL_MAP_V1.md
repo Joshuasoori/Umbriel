@@ -46,7 +46,28 @@ Recommended:
 - render unique land visuals deterministically
 
 ## Launch utility
-Only promise utilities that can actually be delivered:
+Only promise utilities that can actually be delivered.
+
+### Planned Genesis holder utility
+Each eligible Genesis Land is planned to include **12 months of Umbriel Founder Access** once the holder-access service is live.
+
+The planned Founder Access experience is an advanced conversational assistant that can, with explicit user authorization and supported connectors:
+- plan tasks, schedules and projects
+- work with connected email accounts
+- work with Telegram and, where technically available, WhatsApp
+- support CRM-style customer discovery and follow-up
+- assist with sales workflows and product communication
+- connect to commerce/services such as Amazon where supported
+- coordinate workflows by natural-language voice or text from mobile or laptop
+- access future Umbriel tools released during the active entitlement period
+
+Important:
+- the 12-month entitlement clock should start only when Founder Access is actually activated for that holder
+- third-party services may require separate user accounts, permissions or fees
+- Umbriel must not promise integrations before they are technically available
+- users retain control over credentials, permissions and transaction/signing actions
+
+Additional holder utilities:
 - Discord holder role
 - holder-only channels
 - early product previews
