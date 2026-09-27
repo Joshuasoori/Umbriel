@@ -33,6 +33,7 @@
 - [ ] holder verification
 - [ ] map viewer
 - [x] Genesis Drop value architecture drafted
+- [x] Genesis Drop pricing model drafted
 - [x] 12-month Founder Access utility drafted
 - [ ] build Land ownership verification
 - [ ] build Founder Access entitlement activation
