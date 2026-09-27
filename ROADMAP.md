@@ -25,7 +25,8 @@
 - [ ] transparent growth metrics
 
 ## Phase 3 — Umbriel Map
-- [ ] freeze 777-land architecture
+- [x] total Genesis supply changed to 100 Lands
+- [ ] freeze final 100-Land rarity / zone allocation
 - [ ] Genesis parent inscription
 - [ ] generative renderer
 - [ ] metadata manifest
@@ -33,7 +34,8 @@
 - [ ] holder verification
 - [ ] map viewer
 - [x] Genesis Drop value architecture drafted
-- [x] Genesis Drop pricing model drafted
+- [x] initial pricing model drafted
+- [ ] recalculate pricing for 100-Land Genesis supply
 - [x] 12-month Founder Access utility drafted
 - [ ] build Land ownership verification
 - [ ] build Founder Access entitlement activation
