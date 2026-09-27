@@ -32,6 +32,10 @@
 - [ ] parent/child inscription tests
 - [ ] holder verification
 - [ ] map viewer
+- [x] Genesis Drop value architecture drafted
+- [x] 12-month Founder Access utility drafted
+- [ ] build Land ownership verification
+- [ ] build Founder Access entitlement activation
 
 ## Phase 4 — Market infrastructure
 - [ ] legal/compliance review before broad promotion/sale
