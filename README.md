@@ -36,6 +36,7 @@ Umbriel is an AI-first public infrastructure project with a live Base Mainnet ut
 
 ## Status
 - UMBR contract: LIVE on Base Mainnet
+- Contract source: VERIFIED
 - Umbriel Map: architecture phase
 - Reddit launch: prepared, account/community creation pending
 - GitHub repository: live
